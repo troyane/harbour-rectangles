@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/thatch.png</file>
+    </qresource>
+</RCC>
